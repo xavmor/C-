@@ -1,0 +1,4 @@
+class will contain:
+	insert()
+	return()
+	solve()
