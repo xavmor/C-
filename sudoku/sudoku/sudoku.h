@@ -52,6 +52,7 @@ bool Data::insert(int number_answer, int row, char col)
 *******************************************************/
 Data Data::returnData()
 {
+
 }
 
 
